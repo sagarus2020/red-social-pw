@@ -1,0 +1,103 @@
+#search-text-input{
+    border-top:thin solid  #e5e5e5;
+    border-right:thin solid #e5e5e5;
+    border-bottom:0;
+    border-left:thin solid  #e5e5e5;
+    box-shadow:0px 1px 1px 1px #e5e5e5;
+    float:left;
+    height:17px;
+    margin:.8em 0 0 .5em; 
+    outline:0;
+    padding:.4em 0 .4em .6em; 
+    width:183px; 
+}
+  
+#button-holder{
+    background-color:#f1f1f1;
+    border-top:thin solid #e5e5e5;
+    box-shadow:1px 1px 1px 1px #e5e5e5;
+    cursor:pointer;
+    float:left;
+    height:27px;
+    margin:11px 0 0 0;
+    text-align:center;
+    width:50px;
+}
+  
+#button-holder img{
+    margin:4px;
+    width:20px; 
+}
+form{
+
+background:  rgba(0,0,0,0.5);
+
+
+}
+body{
+	background-image:url(https://subwallpaper.com/Widescreen-Wallpapers/warframe-wallpapers-wide-For-Widescreen-Wallpaper.jpg);"
+	background-size: cover;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  background: #151515;
+  padding: 20px;
+  width: 550px;
+ box-shadow: 0 0 10pt 20pt #100AC1;
+margin: 0 auto;
+}
+
+#night{
+	color: #ffffff;
+	  font-family: "Lucida Console", Monospace ,cursive;
+}
+#day{
+	color: #000000;
+	  font-family: "Lucida Console", Monospace ,cursive;
+}
+
+h1.ufps {
+	outline-style: ridge;
+	outline-color: red;
+  background-color: #ffffff;
+	color: #000000;
+	  font-family: "Helvética", Monospace ,cursive;
+		href:"https://ww2.ufps.edu.co/";
+}
+img {
+  border-radius: 8px;
+	max-width: 50%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+height: auto;
+center;
+}
+img.card{
+	max-width: 75%;
+	max-height: : 75%;
+}
+a{
+color:#ffffff;
+text-decoration: none;
+
+}
+button{
+  background-color: #4b5052;
+  	border: 2px solid black;
+  	color: whitesmoke;
+  	padding: 1em 1.5em;
+  	text-align: center;
+  	text-decoration: none;
+
+  	font-size: 1em;
+  	display: inline-block;
+  	width: 22%;
+     margin-bottom: 3em;
+}
+header {
+
+	color: #ffffff;
+	  font-family: "Lucida Console", Monospace ,cursive;
+}
